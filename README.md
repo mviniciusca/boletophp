@@ -1,7 +1,7 @@
 boletophp
 =========
 
-Projeto Código-Aberto de Sistema de Boletos bancários em PHP
+Projeto Código-Aberto de Sistema de Boletos Bancários em PHP
 
 ## Qual o principal motivo deste projeto?
 Este projeto foi criado por Elizeu Alcantara desde Maio/2006 e teve origem do Projeto BBBoletoFree que tiveram colaborações de Daniel William Schultz e Leandro Maniezo que por sua vez foi derivado do PHPBoleto de João Prado Maia e Pablo Martins F. Costa.
